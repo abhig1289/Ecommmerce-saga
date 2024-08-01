@@ -7,7 +7,7 @@
       "price": 10000,
       "category": "mobile",
       "brand": "Samsung",
-      "image": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
+      "photo": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": 10000,
       "category": "mobile",
       "brand": "Samsung",
-      "image": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
+      "photo": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": 10000,
       "category": "mobile",
       "brand": "Samsung",
-      "image": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
+      "photo": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": 10000,
       "category": "mobile",
       "brand": "Samsung",
-      "image": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
+      "photo": "https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
     }
   ]
 }

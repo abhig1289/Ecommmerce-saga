@@ -1,16 +1,37 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { Provider } from 'react-redux';
+import {
+  createBrowserRouter,
+  Link,
+  Route,
+  RouterProvider,
+} from "react-router-dom";
 import App from './App';
+import Cart from './components/Cart';
+import Main from './components/Main';
 import './index.css';
 import store from './redux/store';
 import reportWebVitals from './reportWebVitals';
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />,
+  },
+  {
+    path: "/cart",
+    element: <Cart />,
+  },
+]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 console.warn(store);
 root.render(
   <Provider store={store}>
-    <App />
+    <RouterProvider router={router} >
+
+    </RouterProvider>
   </Provider>
 );
 
